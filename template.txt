@@ -1,0 +1,36 @@
+**pretest**    <-- The name of the quiz, surrounded by **__**
+//<Q>           <-- indicates we are in the question section. requires //<Q> on a new line exactly like that
+1. Which of the following are symptoms of hypoglycemia?
+(A) tachycardia and trembling     <-- each question is identified by (X). Currently only supports 4 option questions A-D (no more, no less)
+(B) bradycardia and diaphoresis
+(C) anxiety and flushed, dry skin
+(D) flushed, dry skin and tachycardia
+                                                                        <-- all questions must be separated by a blank line, identified by RegExp(r'\r?\n\r?\n')
+2. Which of the following is TRUE for a patient who has had a right-sided stroke
+and develops increased intracranial pressure?
+(A) The pupils will change before the level of consciousness does, there will be right-sided
+paralysis, the eyes will be deviated to the left, and there will be a left pupil change.
+(B) The pupils will change before the level of consciousness does, there will be left-sided
+(C) The level of consciousness will change before there will be pupil changes, there
+paralysis, the eyes will be deviated to the right, and there will be a right pupil change.
+will be right-sided paralysis, the eyes will be deviated to the left, and there will be
+a left pupil change.
+(D) The level of consciousness will change before there will be pupil changes, there will be left-sided paralysis, the eyes will be deviated to the right, and there will be
+a right pupil change.
+
+
+//<A>  <-- The answer key. must be included, and must be indicated with //<A>
+1. (A)  <-- Use this exact format. Answer letter is translated to a number, 0-3, to later check correctness.
+2. (D)
+
+//<E>       <-- Holds explanations for each question. Again required.
+1. (A) When the blood glucose drops, sympathetic stimulation occurs. (Symptoms are
+masked for a patient who is receiving beta-adrenergic blocker drugs.) Flushed, dry skin
+is a sign of hyperglycemia.
+
+2. (D) Higher brain centers (cerebral cortex) are the first to be affected by increased intracranial 
+pressure. Therefore, the level of consciousness is the first sign (the one exception 
+to that rule is epidural hematoma). Pupil changes are ipsilateral (same side as the
+injury) due to compression of cranial nerve II against the transtentorial notch. Motor
+changes are contralateral (opposite side of the injury) due to motor fiber crossing in
+the brain stem.
