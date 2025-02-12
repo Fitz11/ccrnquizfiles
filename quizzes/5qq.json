@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "category": "Cardiovascular",
+      "question": "A patient with acute decompensated heart failure is receiving dobutamine. Which of the following effects is expected from this medication?",
+      "options": {
+        "A": "Increased myocardial contractility and vasodilation",
+        "B": "Decreased heart rate and vasoconstriction",
+        "C": "Increased preload and decreased cardiac output",
+        "D": "Decreased systemic vascular resistance and negative inotropic effect"
+      },
+      "correct_answer": "A",
+      "explanation": "Dobutamine is a beta-1 adrenergic agonist, which primarily increases myocardial contractility (positive inotropic effect) and improves cardiac output. It also has mild vasodilatory properties, reducing afterload and enhancing perfusion."
+    },
+    {
+      "category": "Pulmonary",
+      "question": "A patient on mechanical ventilation with ARDS has a PaO₂/FiO₂ ratio of 150. According to the Berlin Definition, what severity of ARDS does this indicate?",
+      "options": {
+        "A": "Mild",
+        "B": "Moderate",
+        "C": "Severe",
+        "D": "Normal oxygenation"
+      },
+      "correct_answer": "B",
+      "explanation": "The Berlin Definition of ARDS classifies severity based on PaO₂/FiO₂ ratio: Mild: 200–300, Moderate: 100–199, Severe: <100. A ratio of 150 falls in the moderate category."
+    },
+    {
+      "category": "Neurology",
+      "question": "A patient with a traumatic brain injury (TBI) has a Glasgow Coma Scale (GCS) score of 6. Which of the following is true?",
+      "options": {
+        "A": "The patient is in a mild coma and does not require intubation",
+        "B": "The patient is in a moderate coma and needs hourly neurological checks",
+        "C": "The patient is in a severe coma and likely requires airway protection",
+        "D": "The patient is fully alert and oriented"
+      },
+      "correct_answer": "C",
+      "explanation": "The Glasgow Coma Scale (GCS) assesses neurologic function: Mild TBI: 13–15, Moderate TBI: 9–12, Severe TBI: ≤8. A GCS of 6 suggests a severe TBI, and the patient is at risk for airway compromise, often requiring intubation."
+    },
+    {
+      "category": "Endocrine",
+      "question": "A diabetic ketoacidosis (DKA) patient has a serum potassium of 6.0 mEq/L before insulin therapy. What is the most appropriate action?",
+      "options": {
+        "A": "Administer IV insulin immediately",
+        "B": "Hold insulin and give calcium gluconate",
+        "C": "Recheck potassium after fluid resuscitation and start insulin cautiously",
+        "D": "Give sodium bicarbonate to lower potassium before insulin therapy"
+      },
+      "correct_answer": "C",
+      "explanation": "In DKA, patients may have pseudo-hyperkalemia due to acidosis and intracellular potassium shifts. Insulin therapy will drive potassium into cells, potentially causing life-threatening hypokalemia. It is crucial to monitor potassium levels closely and replace potassium if it drops below 3.3 mEq/L before starting insulin."
+    },
+    {
+      "category": "Hematology",
+      "question": "A critically ill patient has a platelet count of 20,000/mm³ and is actively bleeding. What is the most appropriate intervention?",
+      "options": {
+        "A": "Start heparin to prevent further clotting",
+        "B": "Transfuse platelets immediately",
+        "C": "Administer fresh frozen plasma (FFP)",
+        "D": "Give vitamin K to improve coagulation"
+      },
+      "correct_answer": "B",
+      "explanation": "A platelet count <50,000/mm³ in a bleeding patient is an indication for platelet transfusion. In severe thrombocytopenia (<20,000/mm³) with active bleeding, immediate platelet transfusion is critical to prevent life-threatening hemorrhage."
+    }
+  ]
+}
