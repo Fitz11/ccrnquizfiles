@@ -1,0 +1,328 @@
+{
+  "questions": [
+    {
+      "category": "Respiratory",
+      "question": "Which of the following developments would indicate that a patient, who is receiving noninvasive ventilation, may require intubation with an endotracheal tube? ",
+      "options": {
+        "A": "(A) a need for an increase in FiO2 from 0.30 to 0.40",
+        "B": "(B) a dry cough and a fever",
+        "C": "(C) a change in mental status with difficulty to arouse",
+        "D": "(D) positive blood cultures"
+      },
+      "correct_answer": "C",
+      "explanation": "(C) Noninvasive ventilation is not safe for a patient who is unable to protect his or her airway. A depressed level of consciousness increases the risk of airway obstruction or aspiration. Choice (A) can be provided with NIV, Choices (B) and (D) do not put a patient who is receiving NIV at a greater risk for a poor outcome."
+    },
+    {
+      "category": "Respiratory",
+      "question": " A patient was discharged from the medical unit 7 days ago following an acute ischemic stroke and is now anxious and complaining of severe shortness of breath. The patient demonstrates tachycardia, tachypnea, hypotension, an SpO2 of 88% on 3L/nasal cannula, and a temperature of 37.9°C. Breath sounds are present, clear, and equal bilaterally. A chest X-ray is clear. ABGs reveal respiratory alkalosis. Based on this history and assessment, which of the following problems exists and which interventions should the nurse anticipate? ",
+      "options": {
+        "A": "(A) increased dead space ventilation; fibrinolytic therapy",
+        "B": "(B) decreased dynamic compliance; bronchodilators",
+        "C": "(C) infection; antibiotics",
+        "D": "(D) shunt; PEEP therapy"
+      },
+      "correct_answer": "A",
+      "explanation": "(A) This scenario describes a patient who is experiencing a pulmonary embolism (PE). Signs of hypotension and hypoxemia indicate that it is a massive PE. The PE increases dead space ventilation due to the drop in pulmonary perfusion. Fibrinolytic therapy (tissue plasminogen activator) is indicated for a massive PE, For any of the other choices to be correct, the patient would have to have abnormal breath sounds."
+    },
+    {
+      "category": "Respiratory",
+      "question": "A patient who is receiving mechanical ventilation has a peak inspiratory pressure of 70 cm H20 and a plateau pressure of 35 cm H20. What intervention would be most beneficial for this patient? ",
+      "options": {
+        "A": "(A) Increase the FiO2.",
+        "B": "(B) Administer mnorphine.",
+        "C": "(C) Obtain stat ABGS",
+        "D": "(D) Administer a bronchodilator."
+      },
+      "correct_answer": "D",
+      "explanation": "(D) This clinical picture is one of asthma. Asthma is an airway problem that results in bronchospasm, which increases airway pressure as evidenced by an elevated inspiratory pressure while the lung pressure itself (the plateau pressure) remains normal. Symptoms would be relieved with a bronchodilator. The other choices would not relieve these symptoms."
+    },
+    {
+      "category": "Respiratory",
+      "question": "Which of the following is an appropriate intervention for a patient with status asthmaticus who is on a ventilator? ",
+      "options": {
+        "A": "(A) Decrease the peak flow rate.",
+        "B": "(B) Increase the tidal volume.",
+        "C": "(C) Check for auto-PEEP",
+        "D": "(D) Increase the breath rate."
+      },
+      "correct_answer": "C",
+      "explanation": "(C) A patient with asthma has difficulty with expiration. Therefore, with each breath air may get trapped, resulting in elevation of the end-expiratory pressure without PEEP being set on the ventilator. This may decrease cardiac output because it decreases venous return. The other interventions would all increase the air trapping."
+    },
+    {
+      "category": "Respiratory",
+      "question": "Which of the following interventions has been demonstrated to decrease ventilator-associated pneumonia? ",
+      "options": {
+        "A": "(A) Provide sedation.",
+        "B": "(B) Maintain the head of the bed at 20° or greater.",
+        "C": "(C) Adhere to a mouth care protocol.",
+        "D": "(D) Deflate the endotracheal tube cuff prior to suctioning."
+      },
+      "correct_answer": "C",
+      "explanation": "(C) Mouth care decreases bacterial colonization in the mouth, which decreases the possibility of microaspiration of bacteria in lower airways. The other 3 choices have NOT been found to decrease incidences of ventilator-associated pneumonia. Sedation should be minimized. The head of the bed should be greater than 30°, The ETT cuff should not be deflated prior to suctioning but, instead, prior to ETT removal. (At that time, the mouth and the subglottic space should be well suctioned.)"
+    },
+    {
+      "category": "Respiratory",
+      "question": "A 49-year-old male, who weighs 70 kg. is admited to the 1CU with smoke inhalation and ARDS. He is receiving mechanical ventilation with the following ventilator settings: FiO2: 0.80, assist-control mode 10 breaths/minute, Vt 400 ml, and PEEP 15 cm of pressure. Arterial blood gases are as follows. pH 7.39, PaCO2 42, PaO2 96, HCO3 22, and O2 sat 98%. Which of the following interventions is appropriate? ",
+      "options": {
+        "A": "(A) Decrease the FiO2",
+        "B": "(B) Increase the tidal volume.",
+        "C": "(C) Decrease the PEEP.",
+        "D": "(D) Do not make any changes."
+      },
+      "correct_answer": "A",
+      "explanation": "(A) The goal is to get the FiO2 down to 50% or less ASAP for a patient who requires high FiO2. This patient's oxygenation status would allow for a decrease in the FiO2. During acute ARDS, the tidal volume needs to be low to prevent volutrauma, and the PEEP needs to be maintained to limit atelectasis."
+    },
+    {
+      "category": "Respiratory",
+      "question": "Which of the following statements about lung compliance is TRUE? ",
+      "options": {
+        "A": "(A) An increase in the peak inspiratory pressure will decrease static compliance.",
+        "B": "(B) A decrease in compliance increases the work of breathing",
+        "C": "(C) Static compliance is decreased with an asthma exacerbation.",
+        "D": "(D) The plateau pressure is used to calculate dynamic compliance."
+      },
+      "correct_answer": "B",
+      "explanation": "(B) Decreased compliance increases \"stiffness\" and therefore requires more work to ventilate. Choice (A) is not correct because an increase in the peak inspiratory pressure will decrease dynamic compliance. Choice (C) is not correct because asthma decreases dynamic (airway) compliance, not static (lung) compliance. Choice (D) is not correct because dynamic compliance is calculated using the peak inspiratory pressure."
+    },
+    {
+      "category": "Respiratory",
+      "question": "Each of the following is a clínícal feature of ARDS EXCEPT: ",
+      "options": {
+        "A": "(A) bilateral chest infiltrates on an X-ray.",
+        "B": "(B) PAOP > 18 cm H2O.",
+        "C": "(C) refractory hypoxemia.",
+        "D": "(D) tachypnea."
+      },
+      "correct_answer": "B",
+      "explanation": "(B) If the PAOP is high, the pulmonary edema is most likely cardiac in origin, whereas in ARDS, the pulmonary edema is noncardiogenic in origin. The other 3 choices (bilateral infiltrates, refractory hypoxemia, and tachypnea) are all present in ARDS."
+    },
+    {
+      "category": "Respiratory",
+      "question": "A patient has mild tachypnea, a productive cough, bronchial breath sounds in the right mid and lower lobes, dullness to percussion over the right lower chest, and an SpO, of 92% on 0.40 FiO2. Which of the following interventions would be appropriate for this patient? ",
+      "options": {
+        "A": "(A) Contact the physician for an order for a bronchodilator.",
+        "B": "(B) Use noninvasive ventilation.",
+        "C": "(C) Avoid turning the patient to the right side.",
+        "D": "(D) Maintain the patient in a supine position."
+      },
+      "correct_answer": "C",
+      "explanation": "(C) This clinical scenario is one of right-sided pneumonia. Therefore, the right side is the \"bad\" side. Due to the effects of gravity on perfusion, the patient generally does better with the \"good\" lung DOWN, With the \"bad\" lung down, there is an increased risk of worsening hypoxemia. Choice (A) is not correct because the patient is not wheezing. Therefore, there is no indication for a bronchodilator. Choice (B) is not correct because this condition does not warrant NIV. Choice (D) is not correct because the best position for a patient with a pulmonary problem is sitting upright, not lying flat."
+    },
+    {
+      "category": "Respiratory",
+      "question": " Drug therapy that is most likely to be prescribed for a patient with status asthmaticus includes which of the following drug categories? ",
+      "options": {
+        "A": "(A) bronchodilators and anticoagulants",
+        "B": "(B) corticosteroids and diuretics",
+        "C": "(C) antibiotics and expectora",
+        "D": "(D) bronchodilators and corticosteroids"
+      },
+      "correct_answer": "D",
+      "explanation": "(D) A patient with asthma needs a bronchodilator (to treat the bronchospasm caused by smooth muscle contraction around the airways) and steroids (to treat the airway inflammation). There is no indication for anticoagulants, diuretics, or antibiotics to treat asthma."
+    },
+    {
+      "category": "Respiratory",
+      "question": " The following interventions may improve oxygenation EXCEPT: ",
+      "options": {
+        "A": "(A) increasing the FiO2.",
+        "B": "(B) giving PRBCS.",
+        "C": "(C) giving fluids or pressors to increase a low BP.",
+        "D": "(D) increasing the ventilator breath rate."
+      },
+      "correct_answer": "D",
+      "explanation": "(D) An increase in the ventilator breath rate will influence the PaCO2 (ventilation), not oxygenation. The other 3 choices will improve oxygenation at the tissue level. An increase in the FiO2 will provide more oxygen at the alveolar-capillary membrane. A blood transfusion will increase oxygen content by increasing hemoglobin, which is the carrier of oxygen. Increasing a low blood pressure will increase oxygen delivery."
+    },
+    {
+      "category": "Respiratory",
+      "question": " While monitoring a patient post-thoracotomy, the nurse suspects that there is hypoventilation. Which characteristic best detines hypoventilation? ",
+      "options": {
+        "A": "(A) PaC02 > 45 mmHg",
+        "B": "(B) respiratory rate < 12",
+        "C": "(C) pH < 7.35",
+        "D": "(D) PaO2 < 60 mmHg"
+      },
+      "correct_answer": "A",
+      "explanation": "(A) The best clinical indicator of effective ventilation is the PaCO2. Although a breath rate less than 12 may indicate hypoventilation, it is not as sensitive an indicator as is PaCO2. In addition, the breath rate does not include the other determinant of effective ventilation (depth of ventilation or tidal volume). Although a low pH may indicate hypoventilation, it may also indicate metabolic acidosis. Hypoxemia (PaO2 less than 80 mmHg on room air) may be present during hyperventilation."
+    },
+    {
+      "category": "Respiratory",
+      "question": " Apatient who was admitted with a carboxyhemoglobin (COHb) level of 45% is lethargic and complains of a headache. The patient is recelving 100% O2 per a face mask and is noted to have an SpO2 of 100%, Which of the following is indicated? ",
+      "options": {
+        "A": "(A) Administer hydrocodone with acetaminophen.",
+        "B": "(B) Continue the FiO2 of 1.00,",
+        "C": "(C) Decrease the FiO2.",
+        "D": "(D) Intubate and initiate mechanical ventilation."
+      },
+      "correct_answer": "B",
+      "explanation": "(B) If the patient has a COHb level of 45%, the best SaO2 achievable is 55% since saturation of hemoglobin cannot be greater than 100% total. The patient needs 100% Fi02 until COHb levels have returned to normal and symptoms (alteration in the level of consciousness and headaches) are relieved. Opiates may depress the level of consciousness and mask the patient's response to FiO2. A decrease in the FiO2 would decrease the driving forces of oxygen and prolong abnormal COHb levels. Intubation would not help oxygenation since the same FiO2 can be provided with a face mask. Intubation would be indicated for a ventilation problem, but the patient does not have signs of hypoventilation."
+    },
+    {
+      "category": "Respiratory",
+      "question": " For questions l4 and 15 A 38-year-old female is admitted with respiratory failure secondary to viral pneumonitis, She is receiving mechanical ventilation and suddenly becomes restless, tachypneic, tachycardic, and hypotensive. The high-pressure ventilator alarm is continuous, and pulse oximetry (SpO2) decreases to 0.83. Breath sounds are diminished on the right with tracheal deviation to the left. Based on this information, what condition is likely developing? ",
+      "options": {
+        "A": "(A) ARDS (acute respiratory distress syndrome)",
+        "B": "(B) hemothorax",
+        "C": "(C) tension pneumothorax",
+        "D": "(D) pulmonary embolism"
+      },
+      "correct_answer": "C",
+      "explanation": "(C) This clinical scenario describes a pneumothorax. As a result of hypotension and tracheal deviation to the opposite side of the pneumothorax, the pneumothorax is a life-threatening tension pneumothorax with symptoms that are the result of a mediastinal shift. If ARDS was the problem, the patient would have bilateral crackles. If a hemothorax was the problem, there would generally be a history of trauma, not an infection. A mediastinal shift (tracheal deviation to the opposite side and hypotension) is not usually present witha hemothorax. If the problem was a PE, the breath sounds would be equal bilaterally."
+    },
+    {
+      "category": "Respiratory",
+      "question": " For questions l4 and 15 A 38-year-old female is admitted with respiratory failure secondary to viral pneumonitis, She is receiving mechanical ventilation and suddenly becomes restless, tachypneic, tachycardic, and hypotensive. The high-pressure ventilator alarm is continuous, and pulse oximetry (SpO2) decreases to 0.83. Breath sounds are diminished on the right with tracheal deviation to the left. Treatment for the patient described in this scenario would likely include which of the following? ",
+      "options": {
+        "A": "(A) morphine and furosemide",
+        "B": "(B) addition of PEEP",
+        "C": "(C) vasopressors",
+        "D": "(D) chest tube"
+      },
+      "correct_answer": "D",
+      "explanation": "(D) The treatment fo a tenston pneumothorax is a chest tube (generally ater emergent needle deconmpression), None of the other choices is beneficial for treating tenson pneumothorax."
+    },
+    {
+      "category": "Respiratory",
+      "question": " For questions 16 and 17 A 63-year-old male is admitted with acute respiratory distress, Symptoms include marked shortness of breath and circumoral cyanosis, He is awake and complains of shortness of breath. He has a history of COPD (chronic obstructive pulmonary disease), Blood gases reveal the following information: pH 7.22, PaCO2 62, PaO2 54, SaO2 81%, HCO3 25, FIO2 30% Based on this information, what condition is likely developing? ",
+      "options": {
+        "A": "(A) cogestive heart faiture",
+        "B": "(B) ARDS",
+        "C": "(C) acute respiratory failure",
+        "D": "(D) pulmonary emboli"
+      },
+      "correct_answer": "C",
+      "explanation": "(C) Not enough information is provided to select any condition other than acute respiratory failure. Acute respiratory failure is an ABG diagnosis, and this ABG meets the requirements of acute respiratory failure, Do NOT read into the questions."
+    },
+    {
+      "category": "Respiratory",
+      "question": " For questions 16 and 17 A 63-year-old male is admitted with acute respiratory distress, Symptoms include marked shortness of breath and circumoral cyanosis, He is awake and complains of shortness of breath. He has a history of COPD (chronic obstructive pulmonary disease), Blood gases reveal the following information: pH 7.22, PaCO2 62, PaO2 54, SaO2 81%, HCO3 25, FIO2 30% What would be the priority treatment at this time? ",
+      "options": {
+        "A": "(A) increase the FiO2.",
+        "B": "(B) intubate and initiate mechanical ventlation.",
+        "C": "(C) Use postural drainage tretment.",
+        "D": "(D) Adinister a bronchodilator."
+      },
+      "correct_answer": "A",
+      "explanation": "(A) This patient has severe hypoxemia that needs to be addressed first in order to prevent all of the associated effects of the severe hypoxemia. Although the patient is not ventilating nomally, the elevated PaCO2 is less of a problem, as indicated by the patients mental status, The level of consciousness is not depressed. There is no indication in the scenario for choices (C) or (D)."
+    },
+    {
+      "category": "Respiratory",
+      "question": " Which of the following may be an effect of mechanical ventilation and PEEP (positive end-expiratory pressure)? ",
+      "options": {
+        "A": "(A) atelectasis",
+        "B": "(B) oxygen toxicity",
+        "C": "(C) ARDS",
+        "D": "(D) reduced cardiac output"
+      },
+      "correct_answer": "D",
+      "explanation": "(D) lnitiation of mechanical ventilation (even without PEEP) that delivers positive pressure breaths results in a mild increase in the intrathoracic pressure with a resultant decrease in venous return. PEEP increases the intrathoracic pressure even more and causes a decrease in venous return. Mechanical ventilation and/or PEEP do not cause any of the other 3 choices."
+    },
+    {
+      "category": "Respiratory",
+      "question": " Which of the following is NOT a clinical finding seen in pneumonia? ",
+      "options": {
+        "A": "(A) a chest X-ray with an area of consolidation",
+        "B": "(B) hypoxemia refractory to O2 administration with a need for PEEP",
+        "C": "(C) normal WBCs with increased immature neutrophils (bands)",
+        "D": "(D) bronchial breath sounds, diminished breath sounds, or crackles on auscultation"
+      },
+      "correct_answer": "B",
+      "explanation": "(B) Pneumonia results in a V/Q mismatch, not a shunt. Therefore, the administration of Oxygen will correct the hypoxemia. PEEP is not required as it is for a shunt (ARDS). The worse the pneumonia, the greater the FIO2 requirement will be. The other 3 choices are possible clinical indicators of pneumonia."
+    },
+    {
+      "category": "Respiratory",
+      "question": " Which of the following would be the earliest sign of hypoventilation? ",
+      "options": {
+        "A": "(A) respiratory rate of 20 breaths/minute",
+        "B": "(B) anxiety",
+        "C": "(C) decreased level of consciousness",
+        "D": "(D) SpO2 of 85%"
+      },
+      "correct_answer": "C",
+      "explanation": "(C) As ventilation decreases, the PaCO2 rises and affects the brain by decreasing the level of consciousness from lethargy to an obtunded state, to a stupor, to a comatose state. Although the patient MAY have hypoventilation with a respiratory rate of 20 breaths/minute, it would not be considered a typical sign. Anxiety and Sp02 are more likely signs of hypoxemia than early signs of hypoventilation."
+    },
+    {
+      "category": "Respiratory",
+      "question": " A 70 kg patient with ARDS is intubated and mechanically ventilated, The patient ls on a continuous vecuronium infusion to maintain a twitch of \"1\". The peak inspiratory pressure is 55 cm H20, and the plateau pressure is 50 cm H20. The PaO2 is 60. The physician orders the following ventilator settings: assist-control mode 12 breaths/minute, tidal volume 700 ml, FiO2 1.00, and PEEP 15. The nurse knows that: ",
+      "options": {
+        "A": "(A) continuous positive airway pressure (CPAP) is an appropriate setting for a patient who is receiving vecuronium.",
+        "B": "(B) a tidal volume of 700 mL is inappropriate for this patient.",
+        "C": "(C) the PEEP should be decreased to 5 cm H2O pressure to improve oxygenation.",
+        "D": "(D) the plateau pressure is appropriate for this patient."
+      },
+      "correct_answer": "B",
+      "explanation": "(B) Since the patient has ARDS, low tidal volumes (5-6 mL/kg) are indicated (permissive hypercapnia) in order to prevent volutrauma. Since the patient weighs 70 kg, a Vt of 700 mL is too high. CPAP requires that the patient has a spontaneous breathing effort. Therefore, CPAP is not appropriate for this patient. A patient with ARDS requires high PEEP to prevent atelectasis and hypoxemia. Therefore, a decrease in PEEP would worsen the hypoxemia. The plateau pressure should be kept at 30 cm H2O or less. Therefore, this patient's plateau pressure is too high, and a decrease in the Vt decrease the plateau pressure."
+    },
+    {
+      "category": "Respiratory",
+      "question": " When caring tor a postoperative patient with a chest tube, care of the patient needs to incude: ",
+      "options": {
+        "A": "(A) loop tubing right above the collection chamber.",
+        "B": "(B) placing the collection chamber on the IV pole when turning the patient.",
+        "C": "(C) clamping the chest tube during patient transport.",
+        "D": "(D) reporting sudden bubbling in the negative pressure chamber."
+      },
+      "correct_answer": "D",
+      "explanation": "(D) Sudden bubbling in the negative pressure chamber is an indication of a possible air leak; this should be reported to the physician. All of the other choices should be avoided when caring for a patient with a chest tube. Loops will increase pressure in the system. The collection chamber needs to be kept below the level of the chest at all times. Clamping the chest tube cuts off the negative pressure provided by the negative pressure chamber and could result in lung re-collapse."
+    },
+    {
+      "category": "Respiratory",
+      "question": " A patient with an acute exacerbation of COPD is minimally responsive, tachypneic, and tachycardic. The ABG results include pH 7.20, PACO2 68, and PaO2 65. The nurse anticipates that the next intervention will be: ",
+      "options": {
+        "A": "(A) initiating noninvasive ventilation.",
+        "B": "(B) endotracheal intubation.",
+        "C": "(C) beginning low-flow oxygen per a nasal cannula.",
+        "D": "(D) administering sodium bicarbonate to correct acidosis."
+      },
+      "correct_answer": "B",
+      "explanation": "(B) Due to the patient's decreased level of consciousness, the need for improved ventilation is a priority. NIV would address the hypoventilation, but it would not be considered safe for a patient with minimal responsiveness. Providing oxygen alone would not address the main problem (hypoventilation), which in this case is worse than the problem of hypoxemia. This patient has respiratory acidosis and should not be treated with sodium bicarbonate."
+    },
+    {
+      "category": "Respiratory",
+      "question": " A patient with a known history of asthma is admitted with asthma exacerbation. The critical care nurse needs to be aware of the potential clinical signs that may indicate a need for intubation and initiation of mechanical ventilation. Which of the following would indicate a possible need for intubation? ",
+      "options": {
+        "A": "(A) difficulty to arouse",
+        "B": "(B) respiratory alkalosis",
+        "C": "(C) bilateral wheezing",
+        "D": "(D) SaO2 92%"
+      },
+      "correct_answer": "A",
+      "explanation": "(A) A depressed level of consciousness may be an indication of hypoventilation (respiratory acidosis) and a precursor to respiratory arrest for a patient with asthma exacerbation. Respiratory alkalosis and bilateral wheezing are common early manifestations during an asthma exacerbation. Mild hypoxemia should be treated with an increase in FiO2 but is not considered ominous unless it is severe."
+    },
+    {
+      "category": "Respiratory",
+      "question": " Which of the following factors would DECREASE the release of oxygen from hemoglo- bin at the tissue level? ",
+      "options": {
+        "A": "(A) a temperature of 39°C",
+        "B": "(B) increased levels of 2,3-DPG",
+        "C": "(C) arterial pH of 7.30",
+        "D": "(D) a massive transfusion of stored, banked blood"
+      },
+      "correct_answer": "D",
+      "explanation": "(D) Banked blood does not have normal 2,3-DPG. Low levels of 2,3-DPG shift the oxyhemoglobin-dissociation curve up to the left, which will decrease hemoglobin's release of oxygen at the tissue level. The remaining 3 choices- a fever, increased levels of 2,3-DPG, and acidosis all shift the curve to the right, whích increases the release of oxygen from hemoglobin."
+    },
+    {
+      "category": "Respiratory",
+      "question": " A trauma patient with multiple long bone fractures suddenly develops agitation, tachypnea, tachycardia, and mild hypoxemia. Her lungs are clear, and a petechial rash is noted on her upper body. Which of the following is suspected? ",
+      "options": {
+        "A": "(A) acute respiratory distress syndrome",
+        "B": "(B) fat embolism",
+        "C": "(C) deep vein thrombosis",
+        "D": "(D) delirium"
+      },
+      "correct_answer": "B",
+      "explanation": "(B) This clinical scenario is one of a pulmonary embolism. With the history of long bone fractures and the development of petechiae, a fat embolism is most likely. ARDS does not present with clear lungs. DVT does not always result in a PE. If it did, though, the PE would be due to a blood clot and petechiae would not be present. Delirium may result in agitation but not the other symptoms."
+    },
+    {
+      "category": "Respiratory",
+      "question": " A patient's arterial blood gas (ABG) is as follows: pH 7.32, PaCO2 33, and HCO3 16. Based on this ABG, what might be this patient's problem? ",
+      "options": {
+        "A": "(A) anxiety",
+        "B": "(B) shock",
+        "C": "(C) drug overdose",
+        "D": "(D) electrolyte imbalance"
+      },
+      "correct_answer": "B",
+      "explanation": "(B) The low pH indicates acidosis. The low bicarbonate indicates that the acidosis is metabolic, and the low PaC02 indicates that hyperventilation has started in order to compensate. The only option that causes metabolic acidosis is shock. Anxiety generally causes respiratory alkalosis. An opiate drug overdose results in respiratory acidosis. An electrolyte imbalance (low chloride) causes metabolic alkalosis."
+    }
+  ]
+}

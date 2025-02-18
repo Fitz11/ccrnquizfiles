@@ -1,0 +1,256 @@
+{
+  "questions": [
+    {
+      "category": "Multisystem",
+      "question": "Which medications are most often prescribed for anaphylaxis after initial therapy with IM epinephrine? ",
+      "options": {
+        "A": "(A) antihistamines and corticosteroids",
+        "B": "(B) vasopressors and inotropes",
+        "C": "(C) antihistamines and antibiotics",
+        "D": "(D) corticosteroids and vasopressors"
+      },
+      "correct_answer": "A",
+      "explanation": "(A) An antihistamine will help halt the allergic response, and a corticosteroid will help halt the inflammatory response. Vasopressors, inotropes, and antibiotics are not helpful for anaphylactic shock."
+    },
+    {
+      "category": "Multisystem",
+      "question": "Which of the following would most likely result in an SvO2 of 82%? ",
+      "options": {
+        "A": "(A) hypovolemic shock",
+        "B": "(B) anaphylactic shock",
+        "C": "(C) septic shock",
+        "D": "(D) cardiogenic shock"
+      },
+      "correct_answer": "C",
+      "explanation": "(C) The normal SvO2 is 60% to 75%. In septic shock, oxygen delivery (Do2) is adequate, but oxygen utilization (Vo2) at the cellular level is low. A sign of poor oxygen utilization when oxygen delivery is adequate is an elevated SvO2. Oxygen is not being used, despite its availability, and blood is returning to the pulmonary artery with more oxygen than expected. The other 3 types of shock result in poor oxygen delivery, which causes low oxygen utilization with a low SvO2. In summary, poor oxygen utilization may result in a low SvO2 when delivery of oxygen is low and an elevated SvO2 when the Oxygen delivery is adequate or high."
+    },
+    {
+      "category": "Multisystem",
+      "question": "The initial management of any drug intoxication is to: ",
+      "options": {
+        "A": "(A) prevent further absorption of the drug.",
+        "B": "(B) increase excretion of the drug.",
+        "C": "(C) administer an antidote when appropriate.",
+        "D": "(D) ensure a patent airway and adequate breathing."
+      },
+      "correct_answer": "D",
+      "explanation": "(D) If the intoxication affects the patient's airway and breathing, the other 3 interventions listed will be of no use since the patient will not survive."
+    },
+    {
+      "category": "Multisystem",
+      "question": "A patient is being treated for sepsis with fluid resuscitation, but the MAP is 55 mmHg and norepinephrine is ordered. What primary beneficial effect will norepinephrine provide for this patient? ",
+      "options": {
+        "A": "(A) It will maintain renal blood flow.",
+        "B": "(B) It will increase coronary artery blood flow.",
+        "C": "(C) It will increase venous return and preload.",
+        "D": "(D) It will restore vascular tone and afterload."
+      },
+      "correct_answer": "D",
+      "explanation": "(D) The problem in sepsis/septic shock is massive dilation (low SVR) and capillary leak (resulting in relative hypovolemia). If needed, pressors (such as norepinephrine) cause vasoconstriction and increase SVR (afterload). Although pressors may also increase preload and renal blood flow, these are secondary effects. The primary effect of pressors is the restoration of afterload. Although septic shock may result in ventricular damage with resultant elevated troponin, myocardial damage is not due to a drop in coronary artery blood flow; rather, the damage is due to the effects that endotoxins have on cardiac muscles."
+    },
+    {
+      "category": "Multisystem",
+      "question": "Which of the following would be an indicator that fluid resuscitation is adequate? ",
+      "options": {
+        "A": "(A) The CVP is 2 mmHg.",
+        "B": "(B) The heart rate is decreasing.",
+        "C": "(C) The pulse pressure is narrowing.",
+        "D": "(D) The serum lactate is 4.1 mmol/L."
+      },
+      "correct_answer": "B",
+      "explanation": "(B) As vascular volume is restored and preload is increased, there is less need for compensatory mechanisms (an increase in heart rate). A CVP of 2 mmHg, narrowing of the pulse pressure, and an elevated lactate (anaerobic metabolism) are all signs that filling pressures have not been optimized."
+    },
+    {
+      "category": "Multisystem",
+      "question": "Which of the following is TRUE in regard to shock? ",
+      "options": {
+        "A": "(A) The MAP is adequate in the compensatory phase of shock.",
+        "B": "(B) The blood pressure is maintained in Class IIl hemorrhagic shock.",
+        "C": "(C) An elevated lactate level occurs late in septic shock.",
+        "D": "(D) Serum bicarbonate is elevated in shock."
+      },
+      "correct_answer": "A",
+      "explanation": "(A) Since compensatory mechanisms are working, the MAP is maintained in the compensatory phase. If these mechanisms fail, the MAP drops and hypotension results (progressive phase). In Class III hemorrhagic shock, the blood pressure decreases and is no longer maintained. In septic shock, lactate rises early on during sepsis, not later on. Serum bicarbonate is decreased (not elevated) in shock due to lactic acidosis."
+    },
+    {
+      "category": "Multisystem",
+      "question": "A patient with upper GI bleeding received procedural sedation with midazolam during his endoscopy procedure. He required higher doses to maintain sedation and screened positive for obstructive sleep apnea (OSA). Which of the following is TRUE regarding this patient's plan of care? ",
+      "options": {
+        "A": "(A) Respiratory depression will generally precede sedation.",
+        "B": "(B) Pulse oximetry will detect early hypoventilation.",
+        "C": "(C) Waveform capnography monitoring is indicated for this patient post-procedure.",
+        "D": "(D) The maximum dose of flumazenil (Romazicon) for midazolam reversal is 0.2 mg IV."
+      },
+      "correct_answer": "C",
+      "explanation": "(C) Waveform capnography is indicated during and after procedural sedation in order to identify EARLY hypoventilation. Longer monitoring may be required for a patient with a history of obstructive sleep apnea (OSA). Sedation usually precedes respiratory depression. SpO2 will not decrease until the PaCO2 is very high. Flumazenil reverses benzodiazepines, However, resedation may occur, and subsequent doses of flumazenil may be necessary."
+    },
+    {
+      "category": "Multisystem",
+      "question": "A patient is receiving a continuous sedation infusion of propofol (Diprivan) at 30 mcg/kg/min. Which of the following is an appropriate intervention for this patient? ",
+      "options": {
+        "A": "(A) Reverse the side effects with flumazenil (Romazicon).",
+        "B": "(B) Provide a daily spontaneous awakening trial.",
+        "C": "(C) Avoid administering analgesia.",
+        "D": "(D) Monitor the patient closely for hypertension."
+      },
+      "correct_answer": "B",
+      "explanation": "(B) Studies have shown improved patient outcomes, shorter ventilator times, and less risk of oversedation when \"awakening trials\" are done for a patient who is on a continuous sedation infusion. Propofol is not reversed with flumazenil. Analgesia should be used for agitation, not avoided. Propofol is more likely to cause hypotension, not hypertension."
+    },
+    {
+      "category": "Multisystem",
+      "question": "Which of the following statements is TRUE in relation to the treatment of sepsis? ",
+      "options": {
+        "A": "(A) Special protocols, \"bundles\" of interventions, are indicated for the presence of an infection with evidence of organ dysfunction.",
+        "B": "(B) Administering pressors is required for treating sepsis.",
+        "C": "(C) By definition, a patient with systemic inflammatory response syndrome (SIRS) has an infection.",
+        "D": "(D) Positive cultures are required in order to make the diagnosis of septic shock."
+      },
+      "correct_answer": "A",
+      "explanation": "(A) \"Sepsis bundles\" are indicated for the presence of an infection with signs of organ dysfunction, since these cases result in increased mortality. Sepsis, by definition, does not require pressor administration. SIRS may be present without an infection (e.g., trauma, pancreatitis). In addition, only 30-50% of patients with sepsis/septic shock present with positive cultures."
+    },
+    {
+      "category": "Multisystem",
+      "question": " Which of the following statements regarding targeted temperature management (TTM) is CORRECT? ",
+      "options": {
+        "A": "(A) TTM should be provided for all patients status post ventricular fibrillation.",
+        "B": "(B) Potassium infusions will most likely be required during rewarming.",
+        "C": "(C) Shivering is expected and is generally self-limiting.",
+        "D": "(D) Insulin infusions are often required during the maintenance phase."
+      },
+      "correct_answer": "D",
+      "explanation": "(D) Targeted temperature management (TTM) may result in hyperglycemia, which will necessitate insulin infusions to maintain normoglycemia during the maintenance phase of TTM. Targeted temperature management is only indicated for an unresponsive patient s/p cardiac arrest, not for ALL patients. Potassium is required during the maintenance phase of TTM to correct hypokalemia. However, during rewarming potassium replacement needs to be stopped. Shivering will prevent temperature reduction, is not self-limiting, and will need to be treated with either meperidine or neuromuscular blocking agents."
+    },
+    {
+      "category": "Multisystem",
+      "question": " A patient who has sustained traumatic injuries, including a pelvic fracture and soft tissue injuries, has required a transfusion of 7 units of packed red blood cells (PRBCS). Which of the following is TRUE related to the care of this patient? ",
+      "options": {
+        "A": "(A) Pressors will most likely be required.",
+        "B": "(B) The patient will need to be monitored for hypercalcemia.",
+        "C": "(C) Blood products and crystalloids should be warmed.",
+        "D": "(D) Platelets will need to be given if the platelet count drops."
+      },
+      "correct_answer": "C",
+      "explanation": "(C) It is important to prevent hypothermia and its resultant adverse consequences during fluid/transfusion resuscitation. Therefore, fluids and blood products need to be warmed. Pressors are not indicated in hypovolemic shock since the afterload in hypovolemic shock is already abnormally high due to compensation for volume loss. The problem needs to be addressed by \"filling up the tank\" to restore circulation volume. HYPOCALCEMIA (not hypercalcemia) secondary to calcium binding to citrate in stored blood is a potential problem related to the transfusion of PRBCS. Platelets are not in PRBCS and should be replaced regardless of platelet count when a large volume of PRBCS is administered. Replacing platelets will prevent thrombocytopenia and coagulation problems."
+    },
+    {
+      "category": "Multisystem",
+      "question": " A patient is receiving mechanical ventilation and is able to write notes to communicate. Which of the following is the most appropriate intervention related to the management of pain for this patient? ",
+      "options": {
+        "A": "(A) Coach the patient in the use of self-reporting with the numerical rating scale (NRS).",
+        "B": "(B) Initiate pain medication during procedures when the patient first demonstrates pain behaviors.",
+        "C": "(C) Disregard the use of nonpharmacological interventions for pain since the patient is receiving mechanical ventilation.",
+        "D": "(D) Ensure that the mean arterial pressure (MAP) is greater than 60 mmHg before providing intravenous opiates."
+      },
+      "correct_answer": "A",
+      "explanation": "(A) Self-reporting pain is always preferred. In the scenario described, the patient is capable of providing a pain intensity number. Preemptive analgesia is preferred for procedures that are likely to be painful rather than waiting until pain is experienced. Nonpharmacological interventions are always appropriate. Hypotensive patients still require pain management. Pain should not be used to \"keep up the BP.\" An opiate (such as fentanyl) may be used because it is less likely to cause a further drop in blood pressure, and the hypotension can be treated as needed."
+    },
+    {
+      "category": "Multisystem",
+      "question": " A 38-year-old female patient was admitted with multiple traumatic injuries, including flail chest, a ruptured spleen, and a crush injury to her left leg. She is receiving mechanical ventilation. The nurse considers requesting a palliative care consult, knowing that the benefits of palliative care include all of the following EXCEPT: ",
+      "options": {
+        "A": "(A) improved survival.",
+        "B": "(B) symptom management.",
+        "C": "(C) improved quality of care.",
+        "D": "(D) increased cost of care."
+      },
+      "correct_answer": "D",
+      "explanation": "(D) Palliative care consults have been shown to decrease, not increase, the cost of care, especially when they occur early during a hospital stay. Choices (A), (B), and (C) ARE benefits of palliative care consults."
+    },
+    {
+      "category": "Multisystem",
+      "question": " It is usually important to decrease the number of days that a patient has an indwelling urinary catheter in place. Which of the following statements presents a valid reason for maintaining this type of catheter? ",
+      "options": {
+        "A": "(A) The patient is receiving mechanical ventilation.",
+        "B": "(B) The catheter was inserted yesterday during renal surgery.",
+        "C": "(C) It is painful for the patient to use the bedpan.",
+        "D": "(D) The patient is receiving medications that may cause urine retention."
+      },
+      "correct_answer": "B",
+      "explanation": "(B) A patient who is only 1 day post-op renal surgery needs an indweling catheter until the surgeon has determined that the patient's condition would not be adversely impacted by removing the catheter. Mechanical ventilation (choice (A)) itself is not a criterion for an indwelling urinary catheter; the need for an indwelling urinary catheter should be based on further assessments for one of the CDC criteria for catheter use. Pain with mobility (as described in choice (C)) could be controlled, and the risks associated with a Foley catheter outweigh patient discomfort, which can be managed. If the patient is receiving medications that may lead to acute urine retention (choice (D)), the patient should be monitored for urine retention. Even if that does occur, the patient may be a candidate for intermittent straight catheterization, or the medications may be able to be changed to alternative agents."
+    },
+    {
+      "category": "Multisystem",
+      "question": " A patient requires the insertion of a chest tube, and the physician plans for moderate sedation with fentanyl. During the procedure, the RN notices that the patient only responds to repeated vigorous shaking. Which of the following choices provides an accurate assessment of this situation and describes the proper intervention that is indicated? ",
+      "options": {
+        "A": "(A) A patient assessment reveals a level of general anesthesia; the proper intervention is to call the anesthesiologist for intubation.",
+        "B": "(B) A patient assessment reveals a level of moderate sedation; the proper intervention is to ask for a flumazenil (Romazicon) order.",
+        "C": "(C) A patient assessment reveals a level of deep sedation; the proper intervention is to assess the patient's oxygenation/ventilation.",
+        "D": "(D) The proper interventions are to alert the physician to the level of sedation and to begin assisting the patient's ventilation with a bag/mask."
+      },
+      "correct_answer": "C",
+      "explanation": "(C) The need for vigorous shaking in order to elicit a response is evidence of deep sedation, and the first priority is for the nurse to ensure that the patient has adequate ventilation and oxygenation. This patient is not evidencing general anesthesia (choice A), and intubation is most likely not going to be needed since a reversal agent could be given and the patient's ventilation could be temporarily assisted. The patient assessment would not reveal moderate sedation (choice (B)), and flumazenil is not the reversal agent for fentanyl. Naloxone (Narcan) is the reversal agent for the opioid fentanyl. This scenario does not describe the signs of inadequate ventilation that require immediate assistance (choice (D)), although the physician does need to be alerted to the level of sedation."
+    },
+    {
+      "category": "Multisystem",
+      "question": " Which of the following is TRUE for a patient who has SIRS (meaning that the patient has 2 or more of the 4 criteria) or has a positive qSOFA score (meaning that the patient has 2 or 3 of the criteria)? ",
+      "options": {
+        "A": "(A) An assessment of the qSOFA score requires laboratory testing.",
+        "B": "(B) Both SIRS and the gSOFA score are markers of an infection.",
+        "C": "(C) SIRS is a component of the Sepsis-3 definitions, and the qSOFA score is a component of the Sepsis-2 definitions.",
+        "D": "(D) SIRS is a marker of inflammation, and the qsOFA score is a marker of organ dysfunction."
+      },
+      "correct_answer": "D",
+      "explanation": "(D) SIRS is a marker of inflammation and is not necessarily associated with organ dysfunction or an infection. The qSOFA score is a marker of organ dysfunction. The remaining choices are not true."
+    },
+    {
+      "category": "Multisystem",
+      "question": " Within the past 2 weeks, 3 patients developed VRE in the critical care unit. Which of the following strategies has been demonstrated to be effective in the prevention of additional cases of VRE? ",
+      "options": {
+        "A": "(A) Perform a root cause analysis of the 3 known cases of VRE.",
+        "B": "(B) Screen all newly admitted patients for VRE.",
+        "C": "(C) Administer vancomycin prophylactically to all patients within the unit.",
+        "D": "(D) Tape posters about hand washing on the doors of all patient rooms."
+      },
+      "correct_answer": "A",
+      "explanation": "(A) It is important to understand the reason for MDRO infections in order to look for patterns and to correct gaps in infection control so as to prevent future infections. A root cause analysis, led by quality improvement staff, often provides the answers in terms of the cause of these infections. The remaining 3 strategies have not been demonstrated to prevent the development of MDROs. Screening for VRE (Choice (B)) has not been demonstrated to be successful, nor is it cost-effective. Providing vancomycin (choice (C)) is not good antibiotic stewardship. Displaying posters has not been shown to be an enduring strategy; there may be an initial impact, but over time, the posters are not often noticed by clinicians."
+    },
+    {
+      "category": "Multisystem",
+      "question": " A patient is being treated for a confirmed salicylate overdose. Which of the following interventions should the nurse anticipate? ",
+      "options": {
+        "A": "(A) Closely monitor for respiratory depression.",
+        "B": "(B) Prepare for hemodialysis.",
+        "C": "(C) Administer thiamine 100 mg IV.",
+        "D": "(D) Administer all doses of N-acetylcysteine, regardless of subsequent salicylate levels."
+      },
+      "correct_answer": "B",
+      "explanation": "(B) Salicylate toxicity will require dialysis in order to prevent acute renal failure, even if the renal lab values are normal upon admission. The remaining 3 choices are not anticipated interventions for a salicylate overdose."
+    },
+    {
+      "category": "Multisystem",
+      "question": " If a patient's death appears imminent, which of the following should be the focus of care for the health care team? ",
+      "options": {
+        "A": "(A) a palliative care consult",
+        "B": "(B) hospice placement",
+        "C": "(C) completion of an advance directive",
+        "D": "(D) supporting the patient/the patient's family"
+      },
+      "correct_answer": "D",
+      "explanation": "(D) When the health care team expects that a patient's death is imminent, the focus of care shifts to end-of-life care. Family support, avoiding the prolongation of death, and bereavement services become the focus. A palliative care consult (choice (A)) is done as early as possible in the event of an acute, severe illness. Hospice placement (choice (B)) is indicated as soon as the disease is determined to be terminal, not when death is imminent. Completing an advance directive (choice (C)) should ideally be done by all patients (with their primary care provider) prior to developing an acute illness."
+    },
+    {
+      "category": "Multisystem",
+      "question": " A patient is being treated for septic shock. Four hours after the identification of sepsis, the serum lactate is 5.2 mmol/L. Based on this information, which of the following steps is indicated? ",
+      "options": {
+        "A": "(A) Perform a passive leg raise.",
+        "B": "(B) Initiate vasopressin.",
+        "C": "(C) Reevaluate the choice of antibiotic.",
+        "D": "(D) Increase FiO2."
+      },
+      "correct_answer": "A",
+      "explanation": "(A) A component of the 3-hour bundle for sepsis is to remeasure the lactate 2-4 hours after the initial lactate if the initial lactate is > 2 mmol/L. If the second lactate is >4 mmol/L (or if the MAP remains < 65 mmHg), the patient's fluid status should be reassessed. A passive leg raise is a strategy that is used to evaluate whether or not the patient will respond to additional fluids. Vasopressin administration (choice (B)) is indicated when the MAP is not responsive, despite the infusion of higher doses of a vasopressor. Reevaluating the choice of antibiotic (choice (C)) is not generally indicated until cultures are available or until further testing indicates an infectious source that is different than what was initially suspected. An increase in Fi02 (choice (D)) is indicated as soon as hypoxemia is identified, but it is not determined by serum lactate."
+    },
+    {
+      "category": "Multisystem",
+      "question": " Which of the following strategies is used to reduce central line-associated blood-stream infections (CLABSIs)? ",
+      "options": {
+        "A": "(A) Avoid the subclavian insertion site.",
+        "B": "(B) Ensure that the patient's chest is covered with sterile towels during insertion of the central line.",
+        "C": "(C) If possible, avoid frequent blood draws from the central line.",
+        "D": "(D) Always wash your hands with soap and water before entering the room."
+      },
+      "correct_answer": "C",
+      "explanation": "(C) Manipulating the central line may increase the risk of contamination. Even if the central line is completely flushed, blood draws may result in increased colonization. The subclavian insertion site (choice (A)) is the preferred location for the insertion of a central line, whereas the femoral site is the least preferred site of insertion. During the insertion of a central line, full body draping with sterile towels, not just covering the patient's chest with sterile towels (choice (B)), is preferred. Hand hygiene should be practiced with either gel or soap and water. The use of soap and water is required after working with a patient with C. difficile or a known infectious diarrhea (norovirus), after using the restroom, when hands are visibly dirty, and before eating. Other than these instances, gel may be used for hand hygiene, and soap and water do not need to be used."
+    }
+  ]
+}

@@ -1,0 +1,364 @@
+{
+  "questions": [
+    {
+      "category": "Cardiovascular",
+      "question": "A 59-year-old male is admitted with complaints of chest pain and dyspnea. ST elevation and T-wave inversion were seen on the ECG in V2, V3, and V4. IV thrombolytic therapy was started in the Emergency Department. Indications of successful reperfusion would include all of the following EXCEPT: ",
+      "options": {
+        "A": "(A) pain cessation.",
+        "B": "(B) a decrease in CK or troponin.",
+        "C": "(C) Reversal of ST segment elevation with a return to baseline.",
+        "D": "(D) short runs of ventricular tachycardia."
+      },
+      "correct_answer": "B",
+      "explanation": "(B) Coronary artery reperfusion (due to either PCI or fibrinolysis) results in an elevation of, NOT a decrease in, creatine kinase (CK) or troponín. The theory is that the return of blood flow distal to the occlusion can result in a \"reperfusion injury of muscle, elevating cardiac biomarkers. The other 3 choices are indicators of successful reperfusion."
+    },
+    {
+      "category": "Cardiovascular",
+      "question": "Which of the following mnedication orders should the nurse question for the patient described in question 1? (A 59-year-old male is admitted with complaints of chest pain and dyspnea. ST elevation and T-wave inversion were seen on the ECG in V2, V3, and V4. IV thrombolytic therapy was started in the Emergency Department.) ",
+      "options": {
+        "A": "(A) metoprolol (Lopressor)",
+        "B": "(B) aspirin",
+        "C": "(C) propranolol (Inderal)",
+        "D": "(D) heparin"
+      },
+      "correct_answer": "C",
+      "explanation": "(C) The patient in this scenario is having an acute anterior wall MI. A beta blocker is beneficial for an acute MI, as these agents decrease the work of the heart and increase the threshold for ventricular fibrillation. Although it is a beta-adrenergic blocker like metoprolol, propranolol is NOT a cardioselective beta blocker. It affects beta receptors in heart muscle AND lung tissue. Therefore, it is more likely to cause bronchoconstriction  than a cardioselective beta blocker. The other 3 choices (a cardioselective beta blocker, an antiplatelet, and an anticoagulant) are indicated for an acute MI, such as the one that the patient in this scenario is experiencing."
+    },
+    {
+      "category": "Cardiovascular",
+      "question": "If heart block develops while caring for the patient described in question 1, which of the following types would it most likely be? (A 59-year-old male is admitted with complaints of chest pain and dyspnea. ST elevation and T-wave inversion were seen on the ECG in V2, V3, and V4. IV thrombolytic therapy was started in the Emergency Department.) ",
+      "options": {
+        "A": "(A) sinoatrial block",
+        "B": "(B) second-degree, Type ki",
+        "C": "(C) second-degree, Type II",
+        "D": "(D) third-degree, complete"
+      },
+      "correct_answer": "C",
+      "explanation": "(C) The patient is having an acute anterior MI, which is generally due to LAD occlusion. The LAD supplies the bundle of His, so an LAD occlusion could result in a second-degree Type II heart block. If symptomatic bradycardia were to occur, the patient may require transcutaneous pacing. The other 3 types of heart blocks are due to SA node or AV node ischemia, which generally occur with an RCA occlusion (inferior wall MI)."
+    },
+    {
+      "category": "Cardiovascular",
+      "question": "Appropriate drug therapy for dilated cardiomyopathy is aimed toward: ",
+      "options": {
+        "A": "(A) Decreasing contractility and decreasing both preload and afterload.",
+        "B": "(B) Decreasing contractility and increasing both preload and afterload.",
+        "C": "(C) Increasing contractility and increasing both preload and afterload.",
+        "D": "(D) Increasing contractillity and decreasing both preload and afterload."
+      },
+      "correct_answer": "D",
+      "explanation": "(D) Dilated cardiomyopathy is likely to result in systolic dysfunction, which decreases contractility, causes compensatory arterial constriction, and results in a higher left ventricular preload. To treat this, therapy is aimed at increasing contractility, decreasing afterload (arterial constriction), and decreasing preload that is too high."
+    },
+    {
+      "category": "Cardiovascular",
+      "question": "An 18-year-old is admitted with a history of a syncopal episode at the mall, and he has a history of an eating disorder. The nurse notes a prolonged QT on the 12-lead ECG and anticipates that a reduction in an electrolyte is the cause. Which of the following is least likely to cause this patient's problem? ",
+      "options": {
+        "A": "(A) sodium",
+        "B": "(B) magnesium",
+        "C": "(C) potassium",
+        "D": "(D) calcium"
+      },
+      "correct_answer": "A",
+      "explanation": "(A) An abnormal level of sodium does NOT cause QT prolongation. In contrast, a low level of magnesium, potassium, or calcium may cause QT prolongation and may result in torsades de pointes ventricular tachycardia and, if self-limiting, a transient syncopal episode."
+    },
+    {
+      "category": "Cardiovascular",
+      "question": "On the third day after admission for an acute MI, a 67-year-old male complains of chest pain and develops a fever. The pain is worse with deep inspiration and is relieved when he leans forward. There are nonspecific ST changes in the precordial  leads of the ECG. The nurse anticipates that this patient will most likely need treatment for: ",
+      "options": {
+        "A": "(A) A thoracic aneurysm.",
+        "B": "(B) Dressler's syndrome.",
+        "C": "(C) Reinfarction.",
+        "D": "(D) Pleuritis."
+      },
+      "correct_answer": "B",
+      "explanation": "(B) The pain described in the scenario is typical of the pain caused by pericarditis. Dressler's syndrome is the pericarditis that may result after an acute MI."
+    },
+    {
+      "category": "Cardiovascular",
+      "question": "A patient is admitted to the CCU after PCI with a stent. A femoral sheath is in place, and the site is dry with no hematoma. He suddenly complains of severe back pain. His neck veins are flat, the head of the bed is at 30 degrees, and his heart sounds are normal. His vital signs are as follows: BP is 78/48, heart rate is 124 beats/minute, and respiratory rate is 26 breaths/minute. What should the nurse suspect? ",
+      "options": {
+        "A": "(A) cardiac tamponade",
+        "B": "(B) retroperitoneal bleeding",
+        "C": "(C) coronary artery dissection",
+        "D": "(D) acute closure of the stented coronary artery"
+      },
+      "correct_answer": "B",
+      "explanation": "(B) Retroperitoneal bleeding may cause signs of hypovolemia and hypovolemic shock, as described in this scenario. It may be a complication of a PCI if the femoral artery is the access site during the procedure. Only this problem results in severe back pain; none of the other 3 choices results in back pain."
+    },
+    {
+      "category": "Cardiovascular",
+      "question": "A patient admitted with an NSTEMI develops acute shortness of breath, a recurrence of chest pain, and a loud systolic murmur at the apex of the heart. Which of the following  has most likely occurred? ",
+      "options": {
+        "A": "(A) The patient has developed acute mitral valve regurgitation.",
+        "B": "(B) The patient has developed acute reinfarction.",
+        "C": "(C) The patient has developed acute mitral valve stenosis.",
+        "D": "(D) The patient has developed an acute ventricular septal defect."
+      },
+      "correct_answer": "A",
+      "explanation": "(A) The location of the murmur, at the apex of the heart (midclavicular, 5th ICS), is one clue to this answer. In addition, regurgitation occurs when the valve should be closed, and the mitral valve should be closed during systole. Mitral valve stenosis, choice (C), occurs when the mitral valve is open. Additionally, mitral valve stenosis cannot be acute; it develops gradually."
+    },
+    {
+      "category": "Cardiovascular",
+      "question": "A patient has just returned from the OR after insertion of a VVI pacemaker. In order to assess the functioning of this pacemaker accurately, the nurse needs to understand that: ",
+      "options": {
+        "A": "(A) both the atrium and ventricle are paced and sensed and may either inhibit or pace in response to sensing.",
+        "B": "(B) the ventricle is paced, ventricular activity is sensed, and pacing is inhibited in response to ventricular sensing.",
+        "C": "(C) both the atrium and ventricle are paced, but only ventricular pacing can be inhibited by a sensed intrinsic ventricular impulse.",
+        "D": "(D) the ventricle is paced, in response to a sensed intrinsic atrial impulse or inhibited by a sensed intrinsic ventricular impulse."
+      },
+      "correct_answer": "B",
+      "explanation": "(B) The first letter indicates chamber paced (ventricle). The second letter indicates chamber sensed (ventricle). The third letter indicates the response to sensing (inhibited in response to sensing)."
+    },
+    {
+      "category": "Cardiovascular",
+      "question": " A patient complains of sudden dyspnea 5 days S/P an acute MI (ST elevation in II, III, and aVF with ST depression in I and aVL). The patient is anxious, diaphoretic, and hypotensive. An examination reveals the development of a loud holosystolic murmur at the apex that radiates to the axilla. The patient has crackles throughout but no S3 heart sound at the apex. What is the most likely cause of this patient's deterioration? ",
+      "options": {
+        "A": "(A) right ventricular failure related to a right ventricular MI",
+        "B": "(B) ventricular septal defect",
+        "C": "(C) left ventricular failure due to extension of the MI",
+        "D": "(D) acute mitral regurgitation due to papillary muscle rupture or dysfunctions"
+      },
+      "correct_answer": "D",
+      "explanation": "(D) The scenario describes a patient having an acute inferior wall MI, which is generally due to occlusion of the RCA. The RCA occlusion may result in papillary muscle dysfunction or rupture of the mitral valve because it supplies the area of the left ventricle where this valve is attached. Although RV infarct could result in RCA occlusion, RV infarct does not result in a holosystolic murmur at the apex of the heart or lung crackles."
+    },
+    {
+      "category": "Cardiovascular",
+      "question": " A patient with a diagnosis of cardiogenic shock now requires high dose dopamine (greater than 10 mcg/kg/min) to maintain her blood pressure, and the cardiologist is planning to start IABP therapy. This therapy will benefit the patient because it will: ",
+      "options": {
+        "A": "(A) Increase afterload with balloon inflation and decrease diastolic augmentation with balloon deflation.",
+        "B": "(B) Decrease afterload with balloon deflation and increase diastolic augmentation with balloon inflation.",
+        "C": "(C) Decrease afterload with balloon inflation and decrease diastolic augmentation with balloon deflation.",
+        "D": "(D) Increase afterload with balloon deflation and decrease diastolic augmentation with balloon inflation."
+      },
+      "correct_answer": "B",
+      "explanation": "(B) Cadiogenic shock results in a decrease in cardiac output with a resultant drop in coronary artery perfusion and compensatory vasoconstriction. The deflation of the balloon that is placed into the descending aorta is beneficial. Deflation decreases afterload and work of the left ventricle. Inflation of the balloon is beneficial because it \"boluses\" blood into the coronary arteries, increasing perfusion."
+    },
+    {
+      "category": "Cardiovascular",
+      "question": " Four days after mitral valve replacement, a patient goes into atrial fibrillation with a rapid ventricular response. What should be the nurse's initial action? ",
+      "options": {
+        "A": "(A) Order a 12-lead ECG.",
+        "B": "(B) Evaluate the patient for clinical signs of hypoperfusion.",
+        "C": "(C) Notify the physician.",
+        "D": "(D) Ask the patient to bear down as if having a bowel movement."
+      },
+      "correct_answer": "B",
+      "explanation": "(B) The patient's response to the arrthythmia will determine whether treatment needs to be emergent and what the treatment will be. Vagal maneuvers (e.g. bearing down) are not known to be effective for atrial fibrillation."
+    },
+    {
+      "category": "Cardiovascular",
+      "question": " A patient's 12-lead ECG shows sinus bradycardia at 44 beats/minute and ST segment elevation in leads II, III, and aVF. Which of the following treatments for bradycardia would best resolve the problem for this patient? ",
+      "options": {
+        "A": "(A) temporary transvenous pacing",
+        "B": "(B) transcutaneous pacing",
+        "C": "(C) percutaneous coronary intervention",
+        "D": "(D) administration of atropine"
+      },
+      "correct_answer": "C",
+      "explanation": "(C) PCI would address the cause of the problem, not only treat the signs and symptoms. Selection of the other 3 choices presumes that the patient had serious signs and symptoms. Do not read into the questions."
+    },
+    {
+      "category": "Cardiovascular",
+      "question": " Which drug would most likely be given to a patient with hypertrophic cardiomyopathy? ",
+      "options": {
+        "A": "(A) metoprolol",
+        "B": "(B) digoxin",
+        "C": "(C) dopamine",
+        "D": "(D) dobutamine"
+      },
+      "correct_answer": "A",
+      "explanation": "(A) In hypertrophic cardiomyopathy, there is a problem with filling. A decrease in heart rate provided by a beta blocker such as metoprolol would increase the filling time. Diastolic dysfunction does NOT cause a problem with ejection, and the EF is normal. The other 3 choices may be indicated for systolic dysfunction."
+    },
+    {
+      "category": "Cardiovascular",
+      "question": " A patient is admitted with ST elevation in V2, V3, and V4. Four days after admission, the patient suddenly developed a holosystolic murmur at the lower left sternal border, chest pain, and hypotension. What complication should the nurse expect? ",
+      "options": {
+        "A": "(A) papilary muscle rupture",
+        "B": "(B) ventricular septal defect",
+        "C": "(C) acute mitral valve stenosis",
+        "D": "(D) acute reinfarction"
+      },
+      "correct_answer": "B",
+      "explanation": "(B) This scenario describes an acute anterior SIEMI generally eaused by an occlusion of the LAD. This type of MI is most likely to result in a VSD. Addilonally, the location of the murmur is important. Mitral valve disease-telated problems do NOT cause murmurs to be loudest at the left sternal border, whereas a VSD would result in a murmur at this location."
+    },
+    {
+      "category": "Cardiovascular",
+      "question": " A postoperative patient on the surgical unit suddenly develops chest pain, extreme weakness and dyspnea and is found to have ST elevation in II, III, and aVF on the stat ECG. Her BP is 92/62, her heart rate is 58 beats/minute, her respiratory rate is 28 breaths/minute, her lungs are clear, and a heart sound assessment reveals an S4 with no murmurs. In addition to preparing the patient for PCI, which of the following interventions would the nurse anticipate? ",
+      "options": {
+        "A": "(A) A nitroglycerìn drip and the administration of aspirin.",
+        "B": "(B) The administration of furosemide (Lasix) and atropine.",
+        "C": "(C) Transcutaneous pacing and the administration of morphine.",
+        "D": "(D) aggessive fluid administration and a right-sided ECG."
+      },
+      "correct_answer": "D",
+      "explanation": "(D) This scenario describes a patient having an acute inferor STEMI, gernerally due to RCA occlusion. An RCA occlusion may result in an RV infarct, which this patient has signs of (hypotension with clear lungs). The definitive treatment is emergent PCI. Fluid administration will help increase coronary artery perfusion by correcting hypotension and ensure adequate RV preload. A right-sided ECG may help confirm the RV infarct. Nitroglycerin, diuretics, and morphine may decrease preload, which would worsen the hypotension."
+    },
+    {
+      "category": "Cardiovascular",
+      "question": " A 52-year-old male presents with complaints of blurred vision and shortness of breath. His BP is 232/136, his heart rate is 102 beats/minute, his respiratory rate is 28 breaths/minute, he has crackles in the lower lung fields bilaterally, and there are S3 and S4 heart sounds upon auscultation. Which of the following would be indicated for this patient? ",
+      "options": {
+        "A": "(A) a nitroprusside drip and admission to the critical care unit",
+        "B": "(B) the administration of digoxin and furosemide",
+        "C": "(C) a labetalol drip and admission to a medical unit",
+        "D": "(D) the administration of lisinopril and a calcium channel blocker"
+      },
+      "correct_answer": "A",
+      "explanation": "(A) This patient has signs of oryan dysfunctíon (heart failure) secondary to extreme hypertension. Therefore, he has a hypertensive crisis or emergency. The BP needs to be emergently decreased. Most often, this treatrment is best done in a critical care setting."
+    },
+    {
+      "category": "Cardiovascular",
+      "question": " An 80-year-old female presents with a chief complaint of acute shortness of breath. A clinical exam reveals that her BP is l80/102, her heart rate is 105 beats/minute, her respiratory rate is 32 breaths/minute, she has lung crackles bilaterally, her pulse oximetry is 88%, and there are S4 heart sounds upon auscultation. An ECG revealed sinus tachycardia and a left ventricular hypertrophy pattern; a chest radiograph showed a normal heart size and pulmonary vascular congestion; and an echocardiogram showed an EF of 55%. Which of the following should be avoided in this patients treatment plan? ",
+      "options": {
+        "A": "(A) A calcium channel blocker",
+        "B": "(B) Digoxin",
+        "C": "(C) Low dose diuretics",
+        "D": "(D) Oxygen"
+      },
+      "correct_answer": "B",
+      "explanation": "(B) This patient presents with signs of heart failure due to diastolic dysfunction (hypertension, left ventricular hypertrophy, EF > 40%), This patient has a problem with FILLING, not ejection. Digoxin, a positive inotrope, may increase wall stress and worsen filling of the left ventricle."
+    },
+    {
+      "category": "Cardiovascular",
+      "question": " A patient had a left internal carotid artery stent placed, and the latest assessment reveals that the patient is alert and oriented, has a weakened right hand grasp and a right facial droop, has stable vital signs, and has a dry procedure site without bleeding. The RN should contact the physician because this patient is most likely experiencing which of the following? ",
+      "options": {
+        "A": "(A) a right cerebral hemorrhage",
+        "B": "(B) hyperperfusion syndrome",
+        "C": "(C) acute cerebrovascular insufficiency",
+        "D": "(D) hypovolemia"
+      },
+      "correct_answer": "C",
+      "explanation": "(C) Contralateral motor weakness and aphasia may be signs of cerebrovascular insufficiency due to left stent patency issues. A right cerebral hemorrhage (choice (A)) would result in left-sided motor weakness and is not usually associated with post-carotid stent placement. The signs and symptoms of hyperperfusion syndrome (choice (B)) do not include contralateral motor weakness. There were no signs of hypovolemia (choice (D)), such as hypotension or oliguria, described in the question."
+    },
+    {
+      "category": "Cardiovascular",
+      "question": " Mrs. Jones has an exacerbation of her heart failure, with signs and symptoms of jugular venous distention (JVD), peripheral edema, and abdominal discomfort. These are clinical signs specific to: ",
+      "options": {
+        "A": "(A) acute left ventricular failure.",
+        "B": "(B) chronic right ventricular failure.",
+        "C": "(C) acute right ventricular failure.",
+        "D": "(D) chronic dehydration."
+      },
+      "correct_answer": "B",
+      "explanation": "(B) The signs described are those of chronic right-sided heart failure. Acute right ventricular failure may result in JVD, but not peripheral edema or abdominal discomfort (which is due to liver engorgerment)."
+    },
+    {
+      "category": "Cardiovascular",
+      "question": " A nurse who is managing a post-op CABG patient assesses a sudden drop in BP, distended neck veins, muffled heart sounds, minimal chest tube output, and a systolic pressure that fluctuates with the breathing pattern. This patient most likely needs: ",
+      "options": {
+        "A": "(A) an emergent return to the OR.",
+        "B": "(B) clamping of the chest tube.",
+        "C": "(C) a transfusion of PRBCs.",
+        "D": "(D) high dose dopamine."
+      },
+      "correct_answer": "A",
+      "explanation": "(A) The signs described in the scenario are those of cardiac tamponade. The treatment for cardiac tamponade for a post-op open heart surgery patient is a return to the OR to drain the pericardial fluid that has accumulated. Development of this problem in other patient populations would necesitate an emergent pericardiocentesis to drain the fluid."
+    },
+    {
+      "category": "Cardiovascular",
+      "question": " Physical assessment findings that are indicative of a significant right ventricular (RV) infarction would include: ",
+      "options": {
+        "A": "(A) bibasilar crackles.",
+        "B": "(B) flat neck veins with the patient in Semi-Fowler's position.",
+        "C": "(C) jugular venous distention.",
+        "D": "(D) tachypnea and frothy sputum."
+      },
+      "correct_answer": "C",
+      "explanation": "(C) A right ventricular infarction that is large enough to cause RV failure causes a problem with RV emptying, leading to an elevated right atrial pressure. This causes jugular venous distention. Choices (A) and (D) are signs of left ventricular failure. Cholce (B) is a sign of dehydration."
+    },
+    {
+      "category": "Cardiovascular",
+      "question": " What pulse change might a nurse expect in the presence of cardiac tamponade? ",
+      "options": {
+        "A": "(A) pulsus alternans",
+        "B": "(B) pulsus paradoxus",
+        "C": "(C) pulsus magnus",
+        "D": "(D) pulsus bisferiens"
+      },
+      "correct_answer": "B",
+      "explanation": "(B) Pulsus paradoxus is fluctuation of the systolic blood pressure with inspiration and expiration by more than 12 mmHg, best seen when an arterial line is in place. Inspiration increases thoracic pressure. When combined with fluid surrounding the heart in cardiac tamponade, inspiration further decreases venous return to the heart, leading to a drop in systolic pressure by > 12 mmHg during the inspiratory phase of breathing. Pulsus alternans (choice (A)) is characterized by a change in amplitude of the systolic wavelorm from beat to beat, usually indicative of severe left ventricular failure. Pulsus magnus (choice (C)) is a bounding pulse. Pulsus bisferiens (choice (D)) is a double pulse and is not covered on the Adult CCRN exam."
+    },
+    {
+      "category": "Cardiovascular",
+      "question": " A patient with mitral regurgitation develops atrial fibrillation with a heart rate of 88 beats/minute and a BP of 118/75. Which of the following may be indicated? ",
+      "options": {
+        "A": "(A) beta blockers and vasopressors",
+        "B": "(B) cardiac glycosides and calcium channel blockers",
+        "C": "(C) beta blockers and calcium channel blockers",
+        "D": "(D) antiarrhythmics and angiotensin-converting enzyme inhibitors"
+      },
+      "correct_answer": "B",
+      "explanation": "(B) This scenario describes the development of atrial fibrillation with a controlled ventricular response and a stable BP. Even with a normal BP, the development of atrial fibrillation drops the cardiac output by 20% to 25% due to a loss in \"atrial kick\" provided by a normal sinus rhythm. A cardiac glycoside (such as digoxin) may be beneficial since it is a weak positive inotrope that may compensate for the loss of atrial kick, and calcium channel blockers will keep the heart rate controlled. Pressors are not needed in this case. The use of both beta blockers and calcium channel blockers would decrease the heart rate too much. ACE inhibitors would offer no benefit in this case."
+    },
+    {
+      "category": "Cardiovascular",
+      "question": " Which of the following are predominant signs of left ventricular systolic dysfunction? ",
+      "options": {
+        "A": "(A) pedal edema, ascites, hepatomegaly, weight gain, ejection fraction less than 40%",
+        "B": "(B) S4 heart sound, bibasilar crackles, hypertension, ejection fraction greater than 40%",
+        "C": "(C) S3 heart sound, new cough, bibasilar crackles, ejection fraction less than 40%",
+        "D": "(D) hypertension, murmur, chest pain, weight gain, ejection fraction greater than 40%"
+      },
+      "correct_answer": "C",
+      "explanation": "(C) An S3 heart sound in an adult is indicative of high left ventricular pressure. A new cough and lung crackles are signs of pulmonary edema secondary to elevated left ventricular end-diastolic pressure (PAOP), although these may be signs of other problems, such as pulmonary fibrosis. The EF is less than 40% in systolic heart failure."
+    },
+    {
+      "category": "Cardiovascular",
+      "question": " A nurse was preparing a patient with the diagnosis of STEMI for a percutaneous coronary intervention (PCI). The monitor had previously shown a normal sinus rhythm (NSR), the BP had been 128/78, and chest pain had improved from a \"9\" to a \"2\" on a 0-10 scale. The monitor alarm then sounded, and the rhythm below was observed by the nurse: --IMAGE MISSING: 3rd degree HB-- Based on this information, which of the following statements is TRUE? ",
+      "options": {
+        "A": "(A) This change is most commonly seen with an acute inferior MI. Assess the patient. If serious signs and symptoms develop, begin transcutaneous pacing (TCP).",
+        "B": "(B) This change is most commonly seen with an acute anterior MI. Assess the patient. If serious signs and symptoms develop. give atropine.",
+        "C": "(C) This change is most commonly seen with an acute inferior MI. Assess the patient. If serious signs and symptoms develop, begin dobutamine.",
+        "D": "(D) This change is most commonly seen with an anterior MI. Assess the patient. If serious signs and symptoms develop, begin transcutaneous pacing (TCP)."
+      },
+      "correct_answer": "A",
+      "explanation": "(A) The patient's clinical status describes a stable BP but the development of a bradyarrhythmia, specifically a complete heart block with a ventricular rate of 30 beats/ minute. This is usually seen with RCA disease, generally associated with an inferior MI. A patient assessment will determine treatment. Transcutaneous pacing would be an appropriate treatment for an unstable patient with this arrhythmia."
+    },
+    {
+      "category": "Cardiovascular",
+      "question": " A 58-year-old patient developed chest pain that he scored as an \"8.\" A rapid assessment included profuse diaphoresis, a BP of 78/52, a heart rate of 104 beats/minute, a respiratory rate of 20 breaths/minute, clear lungs, and an SpO2 of 98%. The patient is currently connected to the bedside monitor with a nasal cannula at 2 L/minute in place and intravenous fluids (0.9% NS) being administered at a rate of 10 mL/hour. Which of the following sequences of interventions would be the most appropriate for the nurse to follow at this time? ",
+      "options": {
+        "A": "(A) Give a chewable aspirin, do an ECG, and then start a fluid bolus.",
+        "B": "(B) Give NTG sublingual, increase the Fi02, and then give morphine.",
+        "C": "(C) Do an ECG, give NTG sublingual, and then give a chewable aspirin.",
+        "D": "(D) Start a fluid bolus, give a chewable aspirin, and then do an ECG."
+      },
+      "correct_answer": "D",
+      "explanation": "(D) This clinical description may be that of acute coronary syndrome complicated by hypotension. Addressing the hypotension is a priority since this is further decreasing coronary artery perfusion. A fluid bolus would address the hypotension, and no contraindications seem to be present for a fluid bolus since the lungs are clear. Aspirin is indicated for acute chest pain and could be given while preparing to do the ECG, which is needed to help make the diagnosis."
+    },
+    {
+      "category": "Cardiovascular",
+      "question": " The location or type of an acute MI is often associated with specific clinical findings. Which of the following statements related to the location of an MI is TRUE? ",
+      "options": {
+        "A": "(A) An anterior MI is often associated with heart blocks or bradyarrhythmias.",
+        "B": "(B) An inferior Ml is often associated with right ventricular wall infarction.",
+        "C": "(C) A lateral MI is most likely to be associated with a posterior MI.",
+        "D": "(D) A posterior MI is most likely to lead to the complication of heart failure."
+      },
+      "correct_answer": "B",
+      "explanation": "(B) Since most inferior MIs are due to RCA occlusion and the RCA also supplies blood to the right ventricular muscle wall, an inferior MI is associated with RV infarct."
+    },
+    {
+      "category": "Cardiovascular",
+      "question": " Which of the following statements is accurate regarding heart valves? ",
+      "options": {
+        "A": "(A) The aortic valve is closed during systole.",
+        "B": "(B) The mitral valve is closed during systole.",
+        "C": "(C) The mitral valve is closed during diastole",
+        "D": "(D) The aortic valve is open during diastole."
+      },
+      "correct_answer": "B",
+      "explanation": "(B) During systole (left ventricular ejection), the aortic valve is open, allowing for ejection. The mitral valve is closed at this time. The mitral valve is open during filling (diastole)."
+    },
+    {
+      "category": "Cardiovascular",
+      "question": " The following drugs are all considered positive inotropic drugs that primarily affect the beta-I receptors in the heart EXCEPT: ",
+      "options": {
+        "A": "(A) dopamine drip at 12 meg/kg/min dose.",
+        "B": "(B) dopamine drip at 5 meg/kg/min dose.",
+        "C": "(C) dobutamine drip at 7 mcg/kg/min dose.",
+        "D": "(D) milrinone at 7 mcg/kg/min dose."
+      },
+      "correct_answer": "A",
+      "explanation": "(A) At high doses (> 10 mcg/kg/min), dopamine stimulates alpha receptors in the arteries and causes vasoconstriction. The other 3 drugs/doses affect mainly the beta-I receptors in the heart, producing a positive inotropic effect."
+    }
+  ]
+}
