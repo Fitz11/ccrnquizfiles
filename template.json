@@ -1,0 +1,19 @@
+{
+  "questions": [
+    {
+      "category": "XXX",
+      "question": "Here goes the question text. Typically new line characters will be stripped.",
+      "options": {
+        "A": "This is option A.",
+        "B": "Options are typically one line as well.",
+        "C": "Currently I only support 4 options.",
+        "D": "I will update this template if that changes."
+      },
+      "correct_answer": "B",
+      "explanation": "This will usually be newline stripped as well."
+    },
+    {
+      "category": "repeat this pattern for as many questions as needed."
+    }
+  ]
+}
